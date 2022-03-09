@@ -316,22 +316,6 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: u0SMSCompleteFix「修复短信验证码自动填充」
 Sponsor: 幺筒源<409774743@qq.com>
 
-Package: com.25mao.MiYou
-Version: 3.2-4
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.miyou_3.2-4_iphoneos-arm.deb
-Size: 5750890
-MD5sum: f514ef9fb8389aab98fe401557d00bde
-SHA1: 09675e1032daf0708e82e2e8be0dc3a1f756b7b6
-SHA256: 23d4cd3427dc8768f06b921e8f3d2771626b46eda7a8f062bf6b1d2762c2e1c2
-Section: 微信插件
-Priority: optional
-Author: Mao
-Name: 微信助手
-Sponsor: admin@25mao.com
-
 Package: com.25mao.wechatocr
 Version: 0.1-5
 Architecture: iphoneos-arm
@@ -462,43 +446,6 @@ Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
 Dev: rpetrich
 Name: RocketBootstrap
 Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.xybp888.CallAssist14
-Version: 2.3.1
-Architecture: iphoneos-arm
-Maintainer: xybp888 <8657156@qq.com>
-Depends: firmware (>= 14.0), mobilesubstrate,preferenceloader,com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
-Filename: ./debs/com.xybp888.callassist14_2.3.1_iphoneos-arm.deb
-Size: 1495618
-MD5sum: b2230366ed34a4015e7e9e7cd1e50363
-SHA1: e032398164c191f925ed8b15c664a22161329f80
-SHA256: 477e932b7212df8b213636a4766bcac95550eeffed280a780623ac21de1c12b6
-Section: Tweaks
-Priority: optional
-Description: 电话助手授权版本,T9双卡选卡拨号键盘,短信双卡选卡,通话录音,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
-Author: xybp888 <8657156@qq.com>
-Depiction: https://apt.htv123.com/view/318
-Icon: file:///Library/PreferenceBundles/CallAssistSetting.bundle/CallAssistIcon@3x.png
-Name: 电话助手iOS14-正式版
-Sileodepiction: https://apt.htv123.com/sileo/318
-
-Package: com.xybp888.magiciannojailbreak
-Version: 0.0.1-401
-Architecture: iphoneos-arm
-Maintainer: xybp888 <8657156@qq.com>
-Installed-Size: 560
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xybp888.magiciannojailbreak_0.0.1-401_iphoneos-arm.deb
-Size: 114086
-MD5sum: 90c0bf54c93b4b7e0623b783772a713d
-SHA1: 949a42fbd1c5042add9b41abb7ca3b8f806cee6e
-SHA256: b60f06447227d42f791fa44f6bc4d2bfe6c5b77a102fbf2151ed627418749d5d
-Section: Tweaks
-Description: 本插件仅供学习之用,请于24小时内卸载,一切法律责任与本插件和作者无关,支持最新版本的工行,农行,交通,中国银行,建设银行,南京银行,浦发银行,中信银行,广发银行,工行e联,邮政银行,光大银行,阳光慧生活,徽商银行,徽商信用卡,T3出行
-Author: xybp888 <8657156@qq.com>
-Depiction: https://apt.htv123.com/view/316
-Name: 魔术师
-Sileodepiction: https://apt.htv123.com/sileo/316
 
 Package: com.yourepo.lly.adsspee
 Version: 1.1.0
